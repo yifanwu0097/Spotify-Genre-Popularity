@@ -1,0 +1,14 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "genre_popularity.csv"},
+    "mark": "line",
+    "encoding": {
+      "x": {"field": "release_year", "type": "ordinal", "title": "Year"},
+      "y": {"field": "track_popularity", "type": "quantitative", "title": "Average Popularity"},
+      "color": {"field": "playlist_genre", "type": "nominal", "title": "Genre"}
+    },
+    "selection": {
+      "brush": {"type": "interval", "encodings": ["x"]}
+    }
+  }
+  
