@@ -1,127 +1,1227 @@
-release_year,playlist_genre,track_popularity
-2000,edm,56.25
-2000,latin,36.64
-2000,pop,44.44
-2000,r&b,32.76
-2000,rap,31.04
-2000,rock,39.71
-2001,edm,45.0
-2001,latin,34.92
-2001,pop,41.79
-2001,r&b,37.38
-2001,rap,29.44
-2001,rock,42.05
-2002,edm,47.5
-2002,latin,50.11
-2002,pop,48.48
-2002,r&b,36.05
-2002,rap,38.28
-2002,rock,45.66
-2003,edm,30.4
-2003,latin,39.38
-2003,pop,38.93
-2003,r&b,32.6
-2003,rap,36.86
-2003,rock,43.58
-2004,edm,47.0
-2004,latin,31.74
-2004,pop,52.96
-2004,r&b,34.34
-2004,rap,34.33
-2004,rock,44.71
-2005,edm,28.38
-2005,latin,38.33
-2005,pop,41.45
-2005,r&b,25.48
-2005,rap,30.75
-2005,rock,31.51
-2006,edm,20.38
-2006,latin,36.87
-2006,pop,31.58
-2006,r&b,26.19
-2006,rap,35.75
-2006,rock,47.37
-2007,edm,16.45
-2007,latin,32.13
-2007,pop,48.24
-2007,r&b,24.16
-2007,rap,35.76
-2007,rock,37.43
-2008,edm,15.79
-2008,latin,24.21
-2008,pop,35.55
-2008,r&b,23.46
-2008,rap,32.37
-2008,rock,27.54
-2009,edm,16.87
-2009,latin,40.16
-2009,pop,30.34
-2009,r&b,19.51
-2009,rap,26.33
-2009,rock,28.25
-2010,edm,35.59
-2010,latin,42.98
-2010,pop,42.37
-2010,r&b,30.08
-2010,rap,29.05
-2010,rock,25.34
-2011,edm,32.8
-2011,latin,39.49
-2011,pop,48.49
-2011,r&b,28.91
-2011,rap,31.54
-2011,rock,39.77
-2012,edm,35.32
-2012,latin,36.4
-2012,pop,52.85
-2012,r&b,35.7
-2012,rap,31.25
-2012,rock,36.54
-2013,edm,19.78
-2013,latin,36.1
-2013,pop,46.29
-2013,r&b,30.64
-2013,rap,24.69
-2013,rock,38.86
-2014,edm,20.8
-2014,latin,36.18
-2014,pop,41.76
-2014,r&b,28.78
-2014,rap,30.87
-2014,rock,35.33
-2015,edm,26.43
-2015,latin,38.1
-2015,pop,42.09
-2015,r&b,34.97
-2015,rap,40.1
-2015,rock,37.19
-2016,edm,30.42
-2016,latin,39.78
-2016,pop,41.5
-2016,r&b,41.61
-2016,rap,40.46
-2016,rock,38.16
-2017,edm,33.37
-2017,latin,42.87
-2017,pop,48.42
-2017,r&b,47.33
-2017,rap,37.75
-2017,rock,37.11
-2018,edm,36.33
-2018,latin,51.5
-2018,pop,52.22
-2018,r&b,50.03
-2018,rap,43.48
-2018,rock,40.97
-2019,edm,43.26
-2019,latin,57.44
-2019,pop,54.88
-2019,r&b,57.87
-2019,rap,53.82
-2019,rock,36.18
-2020,edm,40.32
-2020,latin,50.19
-2020,pop,47.21
-2020,r&b,48.48
-2020,rap,50.64
-2020,rock,39.46
+release_year,playlist_genre,track_name,track_artist,track_popularity
+2000,edm,Bye Bye Bye,*NSYNC,71
+2000,edm,(Rock) Superstar,Cypress Hill,60
+2000,edm,Don’t You Want My Love,Moodymann,48
+2000,edm,Flute,Barcode Brothers,46
+2000,latin,Tu Cariñito,Puerto Rican Power,65
+2000,latin,Un Montón De Estrellas,Polo Montañez,61
+2000,latin,Arrasando,Thalía,54
+2000,latin,Como Me Duele Perderte,Gloria Estefan,53
+2000,latin,Inevitable - En Vivo,Shakira,53
+2000,latin,Let The Music Play,Shannon,53
+2000,latin,Perfidia,Los Rabanes,45
+2000,latin,Give Me Tonight,Shannon,44
+2000,latin,No Me Dejes de Querer,Gloria Estefan,36
+2000,latin,Por un Beso,Gloria Estefan,31
+2000,pop,Yellow,Coldplay,81
+2000,pop,Oops!...I Did It Again,Britney Spears,76
+2000,pop,Up & Down,Vengaboys,61
+2000,pop,We’re Going to Ibiza!,Vengaboys,60
+2000,pop,Too Young,Phoenix,57
+2000,pop,Will I Ever,Alice DJ,49
+2000,pop,Marian - Version,Sisters of Mercy,9
+2000,pop,Around the World (La La La La La) - Radio Version,A Touch Of Class,5
+2000,pop,Another Night,Real McCoy,2
+2000,r&b,Ms. Jackson,OutKast,77
+2000,r&b,Ms. Jackson,OutKast,77
+2000,r&b,He Wasn't Man Enough,Toni Braxton,65
+2000,r&b,I Wanna Know,Joe,64
+2000,r&b,I Wanna Know,Joe,64
+2000,r&b,I Wanna Know,Joe,64
+2000,r&b,Didn't Cha Know,Erykah Badu,62
+2000,r&b,Shackles (Praise You),Mary Mary,60
+2000,r&b,Just Friends (Sunny),Musiq Soulchild,57
+2000,r&b,Just Friends (Sunny),Musiq Soulchild,55
+2000,rap,The Real Slim Shady,Eminem,80
+2000,rap,Ms. Jackson,OutKast,77
+2000,rap,Stan,Eminem,74
+2000,rap,Ride Wit Me,Nelly,73
+2000,rap,"So Fresh, So Clean",OutKast,66
+2000,rap,"So Fresh, So Clean",OutKast,66
+2000,rap,Put It On Me,Ja Rule,64
+2000,rap,What's Your Fantasy (Featuring Shawna),Ludacris,63
+2000,rap,What's Your Fantasy (Featuring Shawna),Ludacris,63
+2000,rap,Hip Hop,Dead Prez,62
+2000,rock,In the End,Linkin Park,83
+2000,rock,In the End,Linkin Park,83
+2000,rock,Yellow,Coldplay,81
+2000,rock,Kryptonite,3 Doors Down,77
+2000,rock,I Want To Hold Your Hand - Remastered 2015,The Beatles,74
+2000,rock,Down with the Sickness,Disturbed,74
+2000,rock,One Step Closer,Linkin Park,74
+2000,rock,Down with the Sickness,Disturbed,74
+2000,rock,Beautiful Day,U2,72
+2000,rock,Trouble,Coldplay,71
+2001,edm,One More Time,Daft Punk,74
+2001,edm,Superstylin',Groove Armada,61
+2001,edm,Flawless - Radio Edit,The Ones,0
+2001,latin,Tabaco Y Chanel,Bacilos,68
+2001,latin,Tabaco Y Chanel,Bacilos,68
+2001,latin,El Duelo (feat. Ely Guerra),La Ley,65
+2001,latin,Amores extraños - Versión 2001,Laura Pausini,65
+2001,latin,Me haces bien,Jorge Drexler,65
+2001,latin,En La Cama (feat. Daddy Yankee),Nicky Jam,65
+2001,latin,Macarena - Bayside Boys Remix,Los Del Rio,62
+2001,latin,La soledad - Versión 2001,Laura Pausini,60
+2001,latin,Me Liberé,El Gran Combo De Puerto Rico,59
+2001,latin,Carito,Carlos Vives,57
+2001,pop,I Want It That Way,Backstreet Boys,76
+2001,pop,Island In The Sun,Weezer,75
+2001,pop,Don't Stop Believin',Journey,74
+2001,pop,One More Time,Daft Punk,74
+2001,pop,"Whenever, Wherever",Shakira,71
+2001,pop,Piano Man,Billy Joel,70
+2001,pop,"Harder, Better, Faster, Stronger",Daft Punk,70
+2001,pop,Uptown Girl,Billy Joel,68
+2001,pop,You Make My Dreams - Remastered,Daryl Hall & John Oates,66
+2001,pop,Get the Party Started,P!nk,66
+2001,r&b,U Remind Me,Usher,73
+2001,r&b,What's Luv? (feat. Ja-Rule & Ashanti),Fat Joe,72
+2001,r&b,Always On Time,Ja Rule,72
+2001,r&b,Let Me Blow Ya Mind,Eve,71
+2001,r&b,7 Days,Craig David,70
+2001,r&b,Family Affair,Mary J. Blige,70
+2001,r&b,Get Ur Freak On,Missy Elliott,70
+2001,r&b,U Got It Bad,Usher,70
+2001,r&b,U Got It Bad,Usher,70
+2001,r&b,Where the Party At (feat. Nelly),Jagged Edge,67
+2001,rap,What's Luv? (feat. Ja-Rule & Ashanti),Fat Joe,72
+2001,rap,Let Me Blow Ya Mind,Eve,71
+2001,rap,You Know How We Do It,Ice Cube,60
+2001,rap,I Got Love,Nate Dogg,60
+2001,rap,Area Codes,Ludacris,59
+2001,rap,Rollout (My Business),Ludacris,58
+2001,rap,Move Bitch,Disturbing Tha Peace,57
+2001,rap,One Minute Man (feat. Ludacris),Missy Elliott,56
+2001,rap,I'm a Thug,Trick Daddy,56
+2001,rap,Worst Comes To Worst - Edited,Dilated Peoples,55
+2001,rock,Chop Suey!,System Of A Down,80
+2001,rock,Chop Suey!,System Of A Down,80
+2001,rock,Last Resort,Papa Roach,79
+2001,rock,How You Remind Me,Nickelback,78
+2001,rock,Toxicity,System Of A Down,78
+2001,rock,How You Remind Me,Nickelback,78
+2001,rock,Your Body Is a Wonderland,John Mayer,77
+2001,rock,Drops of Jupiter,Train,77
+2001,rock,Island In The Sun,Weezer,75
+2001,rock,Don't Stop Believin',Journey,74
+2002,edm,'Till I Collapse,Eminem,83
+2002,edm,"Doo uap, doo uap, doo uap - Radio edit",Gabin,48
+2002,edm,Dark Beat - Original Murk Mix Radio Edit,Oscar G & Ralph Falcon,34
+2002,edm,Time 2 Wonder - Radio Edit,DJs@Work,25
+2002,latin,Obsesion,Aventura,73
+2002,latin,Es Por Tí,Juanes,72
+2002,latin,Mi primer millon,Bacilos,69
+2002,latin,Mi primer millon,Bacilos,69
+2002,latin,Fotografía,Juanes,67
+2002,latin,Así Es la Vida,Elefante,66
+2002,latin,Azul,Cristian Castro,65
+2002,latin,En el 2000,Natalia Lafourcade,63
+2002,latin,Get Busy,Sean Paul,61
+2002,latin,Baby Boy (feat. Beyoncé ),Sean Paul,58
+2002,pop,The Scientist,Coldplay,83
+2002,pop,She Will Be Loved - Radio Mix,Maroon 5,80
+2002,pop,She Will Be Loved - Radio Mix,Maroon 5,80
+2002,pop,Complicated,Avril Lavigne,77
+2002,pop,This Love,Maroon 5,76
+2002,pop,A Thousand Miles,Vanessa Carlton,76
+2002,pop,Clocks,Coldplay,75
+2002,pop,Cry Me a River,Justin Timberlake,74
+2002,pop,In My Place,Coldplay,70
+2002,pop,Mad World (Feat. Michael Andrews),Gary Jules,70
+2002,r&b,Dilemma,Nelly,77
+2002,r&b,Hot In Herre,Nelly,71
+2002,r&b,Foolish,Ashanti,71
+2002,r&b,Foolish,Ashanti,71
+2002,r&b,Work It,Missy Elliott,70
+2002,r&b,I Know What You Want (feat. Flipmode Squad),Busta Rhymes,66
+2002,r&b,Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix,Jennifer Lopez,65
+2002,r&b,Oh Boy,Cam’ron,65
+2002,r&b,Mesmerize,Ja Rule,64
+2002,r&b,Don't Mess With My Man (feat. Brian Casey & Brandon Casey),Nivea,64
+2002,rap,'Till I Collapse,Eminem,83
+2002,rap,Dilemma,Nelly,77
+2002,rap,Cry Me a River,Justin Timberlake,74
+2002,rap,Hot In Herre,Nelly,71
+2002,rap,Get Busy,Sean Paul,71
+2002,rap,Get Low,Ying Yang Twins,71
+2002,rap,Work It,Missy Elliott,70
+2002,rap,I Know What You Want (feat. Flipmode Squad),Busta Rhymes,66
+2002,rap,Oh Boy,Cam’ron,65
+2002,rap,Oh Boy,Cam’ron,65
+2002,rock,Can't Stop,Red Hot Chili Peppers,80
+2002,rock,Like a Stone,Audioslave,75
+2002,rock,Here Without You,3 Doors Down,75
+2002,rock,Like a Stone,Audioslave,75
+2002,rock,By the Way,Red Hot Chili Peppers,74
+2002,rock,Headstrong,Trapt,73
+2002,rock,Feel,Robbie Williams,72
+2002,rock,No One Knows,Queens of the Stone Age,71
+2002,rock,When I'm Gone,3 Doors Down,69
+2002,rock,Still Waiting,Sum 41,69
+2003,edm,Faint,Linkin Park,69
+2003,edm,Aerodynamic - Daft Punk Remix,Daft Punk,52
+2003,edm,Slammin' (Axwell Remix),Eric Prydz,31
+2003,edm,Madan - Exotic Disco Mix,Salif Keita,0
+2003,edm,Just For One Day (Heroes) (Extended Version),David Guetta,0
+2003,latin,Hey Ya!,OutKast,78
+2003,latin,Crazy In Love (feat. Jay-Z),Beyoncé,75
+2003,latin,Dile,Don Omar,73
+2003,latin,Dile,Don Omar,73
+2003,latin,Pa' Que Retozen,Tego Calderon,71
+2003,latin,Pa' Que Retozen,Tego Calderon,71
+2003,latin,Pa' Que Retozen,Tego Calderon,71
+2003,latin,Andar Conmigo,Julieta Venegas,69
+2003,latin,Collide - Acoustic Version,Howie Day,69
+2003,latin,Dale Don Dale,Don Omar,67
+2003,pop,Toxic,Britney Spears,78
+2003,pop,I'm Gonna Be (500 Miles),The Proclaimers,74
+2003,pop,Stacy's Mom,Fountains Of Wayne,73
+2003,pop,Crazy In Love (feat. Jay-Z),Beyoncé,69
+2003,pop,All Out of Love,Air Supply,64
+2003,pop,Go West - 2003 Remaster,Pet Shop Boys,63
+2003,pop,Go West - 2003 Remaster,Pet Shop Boys,63
+2003,pop,12:51,The Strokes,61
+2003,pop,Tell It to My Heart,Taylor Dayne,56
+2003,pop,Tus Ojos,Belanova,56
+2003,r&b,If I Ain't Got You,Alicia Keys,78
+2003,r&b,P.I.M.P.,50 Cent,74
+2003,r&b,In Da Club,50 Cent,71
+2003,r&b,Ignition - Remix,R. Kelly,70
+2003,r&b,Ignition - Remix,R. Kelly,70
+2003,r&b,21 Questions,50 Cent,69
+2003,r&b,Daughters,John Mayer,68
+2003,r&b,Right Thurr,Chingy,67
+2003,r&b,So Gone,Monica,67
+2003,r&b,The Blower's Daughter,Damien Rice,67
+2003,rap,In Da Club,50 Cent,77
+2003,rap,In Da Club,50 Cent,77
+2003,rap,P.I.M.P.,50 Cent,74
+2003,rap,Suga Suga,Baby Bash,72
+2003,rap,Roses,OutKast,71
+2003,rap,In Da Club,50 Cent,71
+2003,rap,Roses,OutKast,71
+2003,rap,21 Questions,50 Cent,69
+2003,rap,21 Questions,50 Cent,69
+2003,rap,Right Thurr,Chingy,67
+2003,rock,Numb,Linkin Park,81
+2003,rock,Numb,Linkin Park,81
+2003,rock,Bring Me To Life,Evanescence,78
+2003,rock,Seven Nation Army,The White Stripes,78
+2003,rock,I'm Gonna Be (500 Miles),The Proclaimers,74
+2003,rock,Are You Gonna Be My Girl,Jet,74
+2003,rock,Are You Gonna Be My Girl,Jet,74
+2003,rock,Stacy's Mom,Fountains Of Wayne,73
+2003,rock,Reptilia,The Strokes,73
+2003,rock,Eres,Café Tacvba,73
+2004,edm,Let's Go (feat. Big D & Twista),Trick Daddy,65
+2004,edm,Remember (Original Mix),The Underdog Project,52
+2004,edm,Stay,David Guetta,24
+2004,latin,Yeah! (feat. Lil Jon & Ludacris),Usher,79
+2004,latin,Gasolina,Daddy Yankee,76
+2004,latin,"Lo Que Pasó, Pasó",Daddy Yankee,73
+2004,latin,Since U Been Gone,Kelly Clarkson,72
+2004,latin,Tu Amor Me Hace Bien - Salsa Version,Marc Anthony,69
+2004,latin,Tu Príncipe,Daddy Yankee,69
+2004,latin,Yo Voy (feat. Daddy Yankee),Zion & Lennox,66
+2004,latin,Yo Voy (feat. Daddy Yankee),Zion & Lennox,66
+2004,latin,Turn Me On,Kevin Lyttle,65
+2004,latin,Amiga mía,Alejandro Sanz,64
+2004,pop,Yeah! (feat. Lil Jon & Ludacris),Usher,79
+2004,pop,American Idiot,Green Day,78
+2004,pop,Unwritten,Natasha Bedingfield,76
+2004,pop,Take Me Out,Franz Ferdinand,73
+2004,pop,Beautiful Soul,Jesse McCartney,72
+2004,pop,Because of You,Kelly Clarkson,71
+2004,pop,Somebody Told Me,The Killers,69
+2004,pop,Hollaback Girl,Gwen Stefani,69
+2004,pop,Since U Been Gone,Kelly Clarkson,68
+2004,pop,Walk Like an Egyptian,The Bangles,63
+2004,r&b,My Boo,Usher,77
+2004,r&b,Let Me Love You,Mario,77
+2004,r&b,Let Me Love You,Mario,77
+2004,r&b,My Boo,Usher,77
+2004,r&b,"One, Two Step",Ciara,74
+2004,r&b,"One, Two Step",Ciara,74
+2004,r&b,I'll Be Missing You (feat. 112),Diddy,71
+2004,r&b,Hollaback Girl,Gwen Stefani,69
+2004,r&b,Drop It Like It's Hot,Snoop Dogg,67
+2004,r&b,"I Need a Girl, Pt. 2 (feat. Loon, Ginuwine & Mario Winans)",Diddy,67
+2004,rap,Yeah! (feat. Lil Jon & Ludacris),Usher,79
+2004,rap,Through The Wire,Kanye West,69
+2004,rap,Ghetto Gospel,2Pac,68
+2004,rap,"I Need a Girl, Pt. 2 (feat. Loon, Ginuwine & Mario Winans)",Diddy,67
+2004,rap,Let's Go (feat. Big D & Twista),Trick Daddy,65
+2004,rap,Overnight Celebrity,Twista,64
+2004,rap,Freek-A-Leek,Petey Pablo,63
+2004,rap,Tipsy - Club Mix,J-Kwon,62
+2004,rap,Tipsy - Radio Mix,J-Kwon,62
+2004,rap,Gravel Pit,Wu-Tang Clan,60
+2004,rock,American Idiot,Green Day,78
+2004,rock,American Idiot,Green Day,78
+2004,rock,Mr. Brightside,The Killers,77
+2004,rock,Somewhere Only We Know,Keane,77
+2004,rock,Mr. Brightside,The Killers,77
+2004,rock,Wake Me up When September Ends,Green Day,76
+2004,rock,Duality,Slipknot,76
+2004,rock,I'm Not Okay (I Promise),My Chemical Romance,74
+2004,rock,Take Me Out,Franz Ferdinand,73
+2004,rock,Everybody's Changing,Keane,73
+2005,edm,Can't Stop Playing (Makes Me High) [feat. Ane Brun] - Oliver Heldens & Gregor Salto Vocal Mix Edit,DR. KUCHO!,57
+2005,edm,Remember the Name (feat. Styles of Beyond),Fort Minor,51
+2005,edm,Watch The Sunrise - Radio Edit,Axwell,39
+2005,edm,Don't Cha,The Pussycat Dolls,38
+2005,edm,Feel The Vibe,Axwell,36
+2005,edm,You Wanna (Klaas Remix),Aston Martinez,5
+2005,edm,Fight For Your Right (Player & Remady Remix),TEC,1
+2005,edm,Rock Down To (Electric Avenue) (Radio Version),Velvet,0
+2005,latin,Hips Don't Lie (feat. Wyclef Jean),Shakira,80
+2005,latin,Better Together,Jack Johnson,75
+2005,latin,Ella Y Yo - Featuring Don Omar,Aventura,74
+2005,latin,Ella Y Yo - Featuring Don Omar,Aventura,74
+2005,latin,Atrévete-Te-Te,Calle 13,73
+2005,latin,Atrévete-Te-Te,Calle 13,73
+2005,latin,Banana Pancakes,Jack Johnson,71
+2005,latin,Noche De Sexo,Wisin & Yandel,69
+2005,latin,Noche De Sexo,Wisin & Yandel,69
+2005,latin,Noche De Sexo,Wisin & Yandel,69
+2005,pop,Fix You,Coldplay,81
+2005,pop,Hey There Delilah,Plain White T's,80
+2005,pop,Hips Don't Lie (feat. Wyclef Jean),Shakira,80
+2005,pop,Bad Day,Daniel Powter,76
+2005,pop,Ridin',Chamillionaire,69
+2005,pop,Ni Tú Ni Nadie,Mœnia,68
+2005,pop,Don't Cha,The Pussycat Dolls,66
+2005,pop,Just the Girl,The Click Five,59
+2005,pop,God Is a DJ,Faithless,57
+2005,pop,Juegos de Amor,Mœnia,49
+2005,r&b,Feeling Good,Michael Bublé,70
+2005,r&b,Love,Keyshia Cole,68
+2005,r&b,"Slow Down - 12"" Version",Bobby V.,67
+2005,r&b,I'm Sprung,T-Pain,67
+2005,r&b,Grind with Me,Pretty Ricky,66
+2005,r&b,Don't Cha,The Pussycat Dolls,66
+2005,r&b,Grind with Me,Pretty Ricky,66
+2005,r&b,I Need a Girl (Pt. One) (feat. Usher & Loon),Diddy,64
+2005,r&b,Come and Talk to Me - Remix,Jodeci,60
+2005,r&b,Come and Talk to Me - Remix,Jodeci,60
+2005,rap,"Lose Yourself - From ""8 Mile"" Soundtrack",Eminem,77
+2005,rap,Just A Lil Bit,50 Cent,75
+2005,rap,How We Do,The Game,72
+2005,rap,Hate It Or Love It,The Game,72
+2005,rap,Ridin',Chamillionaire,69
+2005,rap,Laffy Taffy,D4L,68
+2005,rap,Laffy Taffy,D4L,68
+2005,rap,I'm Sprung,T-Pain,67
+2005,rap,Big City Life,Mattafix,65
+2005,rap,Soul Survivor,Jeezy,64
+2005,rock,Feel Good Inc.,Gorillaz,80
+2005,rock,Feel Good Inc.,Gorillaz,80
+2005,rock,You're Beautiful,James Blunt,76
+2005,rock,Bad Day,Daniel Powter,76
+2005,rock,B.Y.O.B.,System Of A Down,75
+2005,rock,Blue Monday - 2016 Remaster,New Order,73
+2005,rock,Stricken,Disturbed,72
+2005,rock,Coming Undone,Korn,71
+2005,rock,The Kill,Thirty Seconds To Mars,71
+2005,rock,Self Esteem,The Offspring,71
+2006,edm,So Sick,Ne-Yo,77
+2006,edm,Lola's Theme,The Shapeshifters,54
+2006,edm,The Cure & The Cause - Dennis Ferrer Remix,Fish Go Deep,49
+2006,edm,Kylie,Akcent,40
+2006,edm,Walking Away - Toscadisco Remix,The Egg,39
+2006,edm,Changes - Dirty South Remix,Chris Lake,33
+2006,edm,Children Of The Last Generation,X Dream,12
+2006,edm,Muscle Car - Sander Kleinenberg's Pace Car Mix - Radio Edit,Mylo,7
+2006,edm,Get Twisted (Original Mix),Klaas,5
+2006,edm,"Gonna Fly Now (Theme From ""Rocky"") - 2006 - Remaster",Bill Conti,4
+2006,latin,Life is a Highway,Rascal Flatts,72
+2006,latin,Salió El Sol,Don Omar,72
+2006,latin,Mis Ojos Lloran Por Ti,Big Boy,71
+2006,latin,Caraluna,Bacilos,69
+2006,latin,Bendita Tu Luz,Maná,69
+2006,latin,Ojitos Chiquitos,Don Omar,68
+2006,latin,Qué Precio Tiene el Cielo - Salsa Version,Marc Anthony,67
+2006,latin,Bandoleros,Don Omar,67
+2006,latin,Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version,Ricky Martin,67
+2006,latin,Sensacion Del Bloque,De La Ghetto,66
+2006,pop,Waiting On the World to Change,John Mayer,74
+2006,pop,Big Girls Don't Cry (Personal),Fergie,74
+2006,pop,Wicked Game,Chris Isaak,69
+2006,pop,Who Knew,P!nk,69
+2006,pop,Grace Kelly,MIKA,67
+2006,pop,Rosa Pastel,Belanova,61
+2006,pop,Our Song,Taylor Swift,61
+2006,pop,"The Best of Both Worlds - From ""Hannah Montana""/Soundtrack Version",Hannah Montana,58
+2006,pop,Enjoy the Silence,Depeche Mode,58
+2006,pop,Por Ti,Belanova,57
+2006,r&b,So Sick,Ne-Yo,77
+2006,r&b,Put Your Records On,Corinne Bailey Rae,75
+2006,r&b,Gravity,John Mayer,74
+2006,r&b,Waiting On the World to Change,John Mayer,74
+2006,r&b,You Know I'm No Good,Amy Winehouse,73
+2006,r&b,Rehab,Amy Winehouse,73
+2006,r&b,Me & U,Cassie,72
+2006,r&b,I Wanna Love You,Akon,70
+2006,r&b,When I See U,Fantasia,68
+2006,r&b,Shortie Like Mine,Bow Wow,67
+2006,rap,My Love (feat. T.I.),Justin Timberlake,70
+2006,rap,Snap Yo Fingers,Youngbloodz,68
+2006,rap,Snap Yo Fingers,Youngbloodz,68
+2006,rap,Hustlin',Rick Ross,67
+2006,rap,Hustlin',Rick Ross,67
+2006,rap,I Wanna Love You,Akon,66
+2006,rap,Joker And The Thief,Wolfmother,66
+2006,rap,It's Goin' Down (feat. Nitti),Yung Joc,65
+2006,rap,It's Goin' Down (feat. Nitti),Yung Joc,65
+2006,rap,What You Know,T.I.,63
+2006,rock,Snow (Hey Oh),Red Hot Chili Peppers,79
+2006,rock,Welcome to the Black Parade,My Chemical Romance,78
+2006,rock,Welcome to the Black Parade,My Chemical Romance,78
+2006,rock,Chasing Cars,Snow Patrol,77
+2006,rock,Teenagers,My Chemical Romance,77
+2006,rock,Dani California,Red Hot Chili Peppers,76
+2006,rock,Crazy,Gnarls Barkley,75
+2006,rock,When You Were Young,The Killers,75
+2006,rock,Supermassive Black Hole,Muse,73
+2006,rock,Starlight,Muse,73
+2007,edm,No One,Alicia Keys,79
+2007,edm,Bleeding Love,Leona Lewis,77
+2007,edm,Better in Time,Leona Lewis,70
+2007,edm,"I Stand Alone - From ""The Scorpion King"" Soundtrack",Godsmack,52
+2007,edm,Everytime We Touch (with Steve Angello & Sebastian Ingrosso),David Guetta,47
+2007,edm,Scratch Marchin',Kormac,39
+2007,edm,Tomorrow Can Wait,David Guetta,26
+2007,edm,Morseton 2.0 (Elektro Pop Cut),Heiko & Maiko,21
+2007,edm,Wild Obsession (Klaas Remix),Erick Decks,18
+2007,edm,Love Is Gone - Original Extended,David Guetta,12
+2007,latin,Yo Quisiera,Reik,70
+2007,latin,La rebelion,Joe Arroyo,68
+2007,latin,Pasarela,Ñejo & Dalmata,68
+2007,latin,Pasarela,Ñejo & Dalmata,68
+2007,latin,"Vuela, Vuela (Voyage, Voyage)",Magneto,67
+2007,latin,Zun Da Da,Zion,67
+2007,latin,Sexy Movimiento,Wisin & Yandel,66
+2007,latin,Sexy Movimiento,Wisin & Yandel,66
+2007,latin,Hoja En Blanco,Monchy & Alexandra,65
+2007,latin,Mientes Tan Bien,Sin Bandera,65
+2007,pop,Electric Feel,MGMT,77
+2007,pop,Bleeding Love,Leona Lewis,77
+2007,pop,Beautiful Girls,Sean Kingston,77
+2007,pop,Electric Feel,MGMT,77
+2007,pop,Kids,MGMT,76
+2007,pop,Thnks fr th Mmrs,Fall Out Boy,76
+2007,pop,Girlfriend,Avril Lavigne,72
+2007,pop,Irreplaceable,Beyoncé,72
+2007,pop,Misery Business,Paramore,71
+2007,pop,Bubbly,Colbie Caillat,71
+2007,r&b,Bubbly,Colbie Caillat,71
+2007,r&b,How Do I Breathe,Mario,69
+2007,r&b,Bed,J. Holiday,67
+2007,r&b,"Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",Amy Winehouse,65
+2007,r&b,Can't Help but Wait,Trey Songz,62
+2007,r&b,Same Girl (with Usher),R. Kelly,60
+2007,r&b,Lesson Learned (feat. John Mayer),Alicia Keys,57
+2007,r&b,Never Would Have Made It,Marvin Sapp,55
+2007,r&b,Bartender (feat. Akon),T-Pain,54
+2007,r&b,Massage Situation,Flying Lotus,51
+2007,rap,Buy U a Drank (Shawty Snappin'),T-Pain,76
+2007,rap,Crank That (Soulja Boy),Soulja Boy,76
+2007,rap,Crank That (Soulja Boy),Soulja Boy,76
+2007,rap,The Way I Are,Timbaland,72
+2007,rap,Changes,2Pac,72
+2007,rap,Real Muthaphuckkin' G's,Eazy-E,69
+2007,rap,Real Muthaphuckkin' G's,Eazy-E,69
+2007,rap,Hypnotize - 2007 Remaster,The Notorious B.I.G.,68
+2007,rap,Hypnotize - 2007 Remaster,The Notorious B.I.G.,68
+2007,rap,Superstar,Lupe Fiasco,65
+2007,rock,Electric Feel,MGMT,77
+2007,rock,The Pretender,Foo Fighters,76
+2007,rock,Kids,MGMT,76
+2007,rock,Thnks fr th Mmrs,Fall Out Boy,76
+2007,rock,The Pretender,Foo Fighters,76
+2007,rock,Love Song,Sara Bareilles,75
+2007,rock,Fake It,Seether,73
+2007,rock,I Hate Everything About You,Three Days Grace,72
+2007,rock,I Hate Everything About You,Three Days Grace,72
+2007,rock,Bleed It Out,Linkin Park,72
+2008,edm,Don't Stop The Music,Rihanna,76
+2008,edm,Pjanoo - Radio Edit,Eric Prydz,65
+2008,edm,Man With The Red Face - Radio Edit,Mark Knight,51
+2008,edm,Jolie Coquine,Caravan Palace,51
+2008,edm,Umbrella,Rihanna,47
+2008,edm,Don't Give Up,Chicane,44
+2008,edm,Poker Face,Lady Gaga,42
+2008,edm,No Superstar - Radio Mix,Remady,41
+2008,edm,I Kissed A Girl,Katy Perry,37
+2008,edm,"Hit the Floor ""Power"" (feat. Dollar Man)",Big Ali,31
+2008,latin,I'm Yours,Jason Mraz,82
+2008,latin,Don't Stop The Music,Rihanna,76
+2008,latin,Chicken Fried,Zac Brown Band,75
+2008,latin,"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",John Mayer,74
+2008,latin,Llamado de Emergencia,Daddy Yankee,71
+2008,latin,Single Ladies (Put a Ring on It),Beyoncé,69
+2008,latin,Poker Face,Lady Gaga,69
+2008,latin,Na De Na,Angel Y Khriz,68
+2008,latin,No Me Doy Por Vencido,Luis Fonsi,68
+2008,latin,Na De Na,Angel Y Khriz,68
+2008,pop,I'm Yours,Jason Mraz,82
+2008,pop,Umbrella,Rihanna,80
+2008,pop,Low (feat. T-Pain),Flo Rida,79
+2008,pop,Viva La Vida,Coldplay,78
+2008,pop,Viva La Vida,Coldplay,78
+2008,pop,"You're Gonna Go Far, Kid",The Offspring,77
+2008,pop,Halo,Beyoncé,77
+2008,pop,Poker Face,Lady Gaga,76
+2008,pop,Use Somebody,Kings of Leon,75
+2008,pop,Just Dance,Lady Gaga,73
+2008,r&b,Halo,Beyoncé,77
+2008,r&b,Live Your Life (feat. Rihanna),T.I.,74
+2008,r&b,A Milli,Lil Wayne,73
+2008,r&b,Broken Strings,James Morrison,70
+2008,r&b,If I Were a Boy,Beyoncé,68
+2008,r&b,It Was A Good Day,Ice Cube,60
+2008,r&b,I Wanna Know,Joe,58
+2008,r&b,sobeautiful,Musiq Soulchild,58
+2008,r&b,Melt My Heart to Stone,Adele,57
+2008,r&b,Green Light (feat. André 3000),John Legend,57
+2008,rap,Low (feat. T-Pain),Flo Rida,79
+2008,rap,Whatever You Like,T.I.,74
+2008,rap,Whatever You Like,T.I.,74
+2008,rap,A Milli,Lil Wayne,73
+2008,rap,Lollipop,Lil Wayne,71
+2008,rap,Indestructible,Disturbed,70
+2008,rap,Mrs. Officer,Lil Wayne,69
+2008,rap,Mrs. Officer,Lil Wayne,69
+2008,rap,Put On,Jeezy,68
+2008,rap,Put On,Jeezy,68
+2008,rock,Sex on Fire,Kings of Leon,79
+2008,rock,Viva La Vida,Coldplay,78
+2008,rock,"You're Gonna Go Far, Kid",The Offspring,77
+2008,rock,"You're Gonna Go Far, Kid",The Offspring,77
+2008,rock,Use Somebody,Kings of Leon,75
+2008,rock,Use Somebody,Kings of Leon,75
+2008,rock,TRUE - Single Edit,Spandau Ballet,72
+2008,rock,Love Will Tear Us Apart,Joy Division,71
+2008,rock,Ain't No Rest For The Wicked - Original Version,Cage The Elephant,70
+2008,rock,Savior,Rise Against,70
+2009,edm,Bad Romance,Lady Gaga,78
+2009,edm,When Love Takes Over (feat. Kelly Rowland),David Guetta,64
+2009,edm,Upside Down,Paloma Faith,58
+2009,edm,Hit That Jive,Gramatik,55
+2009,edm,You And I - Deadmau5 Remix,Medina,47
+2009,edm,Cinnamon Girl - Radio Edit,[dunkelbunt],47
+2009,edm,Listen,Nekta,44
+2009,edm,Snake Charmer,Benny Berigan,41
+2009,edm,Boom Boom Guetta - David Guetta's Electro Hop Remix,The Black Eyed Peas,41
+2009,edm,Downpipe - Original Club Mix,Mark Knight,35
+2009,latin,Bad Romance,Lady Gaga,78
+2009,latin,Fireflies,Owl City,78
+2009,latin,Secrets,OneRepublic,76
+2009,latin,Down,Jay Sean,76
+2009,latin,Yo No Sé Mañana,Luis Enrique,74
+2009,latin,Colgando en tus manos (con Marta Sánchez),Carlos Baute,74
+2009,latin,Yo No Sé Mañana,Luis Enrique,74
+2009,latin,Replay,Iyaz,74
+2009,latin,Party In The U.S.A.,Miley Cyrus,73
+2009,latin,Rude Boy,Rihanna,72
+2009,pop,Bad Romance,Lady Gaga,78
+2009,pop,Fireflies,Owl City,78
+2009,pop,Party In The U.S.A.,Miley Cyrus,78
+2009,pop,Down,Jay Sean,76
+2009,pop,Secrets,OneRepublic,76
+2009,pop,21 Guns,Green Day,75
+2009,pop,You Found Me,The Fray,74
+2009,pop,The Climb,Miley Cyrus,72
+2009,pop,Intro,The xx,72
+2009,pop,Replay,Iyaz,72
+2009,r&b,Obsessed,Mariah Carey,67
+2009,r&b,Knock You Down,Keri Hilson,65
+2009,r&b,Whole Wide World,Bahamas,63
+2009,r&b,Chasing Pirates,Norah Jones,59
+2009,r&b,Pretty Wings - uncut,Maxwell,58
+2009,r&b,I Saw Mommy Kissing Santa Claus,The Jackson 5,57
+2009,r&b,Never Forget You,Noisettes,56
+2009,r&b,After the Storm,Mumford & Sons,54
+2009,r&b,Just Ain't Gonna Work Out,Mayer Hawthorne,51
+2009,r&b,Honey Dove,Lee Fields & The Expressions,50
+2009,rap,Forever,Drake,67
+2009,rap,Steady Mobbin,Young Money,65
+2009,rap,Steady Mobbin,Young Money,65
+2009,rap,Party and Bullshit - 2008 Remaster,The Notorious B.I.G.,60
+2009,rap,Some Cut (feat. Cutty),Trillville,56
+2009,rap,Ice Cream Paint Job,Dorrough Music,56
+2009,rap,Money To Blow - Street Version,Birdman,56
+2009,rap,No Problem,Lil Scrappy,54
+2009,rap,No Problem,Lil Scrappy,54
+2009,rap,Thug,Slim Thug,52
+2009,rock,Uprising,Muse,75
+2009,rock,Monster,Skillet,75
+2009,rock,Uprising,Muse,75
+2009,rock,Hero,Skillet,72
+2009,rock,I Will Not Bow,Breaking Benjamin,71
+2009,rock,Stuck In The Middle With You,Stealers Wheel,71
+2009,rock,Stuck In The Middle With You,Stealers Wheel,71
+2009,rock,Dancing in the Moonlight,Toploader,69
+2009,rock,Bad Company,Five Finger Death Punch,69
+2009,rock,This Is War,Thirty Seconds To Mars,67
+2010,edm,Love The Way You Lie,Eminem,82
+2010,edm,Dynamite,Taio Cruz,77
+2010,edm,Raise Your Glass,P!nk,76
+2010,edm,Grenade,Bruno Mars,75
+2010,edm,Need You Now,Lady Antebellum,73
+2010,edm,S&M,Rihanna,72
+2010,edm,OMG (feat. will.i.am),Usher,72
+2010,edm,Break Your Heart,Taio Cruz,71
+2010,edm,Airplanes (feat. Hayley Williams),B.o.B,68
+2010,edm,Fuck You,CeeLo Green,64
+2010,latin,Love The Way You Lie,Eminem,82
+2010,latin,"Hey, Soul Sister",Train,82
+2010,latin,Just the Way You Are,Bruno Mars,80
+2010,latin,DJ Got Us Fallin' In Love (feat. Pitbull),Usher,78
+2010,latin,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song],Shakira,77
+2010,latin,Just the Way You Are,Bruno Mars,77
+2010,latin,Baby,Justin Bieber,76
+2010,latin,Grenade,Bruno Mars,75
+2010,latin,Danza Kuduro,Don Omar,75
+2010,latin,Danza Kuduro,Don Omar,75
+2010,pop,"Hey, Soul Sister",Train,82
+2010,pop,TiK ToK,Kesha,80
+2010,pop,TiK ToK,Kesha,80
+2010,pop,Just the Way You Are,Bruno Mars,80
+2010,pop,DJ Got Us Fallin' In Love (feat. Pitbull),Usher,78
+2010,pop,Dynamite,Taio Cruz,77
+2010,pop,Raise Your Glass,P!nk,76
+2010,pop,Baby,Justin Bieber,76
+2010,pop,Moves Like Jagger - Studio Recording From The Voice Performance,Maroon 5,76
+2010,pop,On Melancholy Hill,Gorillaz,75
+2010,r&b,Just the Way You Are,Bruno Mars,80
+2010,r&b,All Of The Lights,Kanye West,75
+2010,r&b,My Chick Bad,Ludacris,65
+2010,r&b,Sprawl II (Mountains Beyond Mountains),Arcade Fire,63
+2010,r&b,All I Want Is You (feat. J. Cole),Miguel,62
+2010,r&b,Dancing On My Own,Robyn,61
+2010,r&b,Man Down,Rihanna,59
+2010,r&b,Mi Mujer,Nicolas Jaar,59
+2010,r&b,Round And Round,Ariel Pink,57
+2010,r&b,Window Seat,Erykah Badu,56
+2010,rap,No Hands (feat. Roscoe Dash & Wale),Waka Flocka Flame,74
+2010,rap,No Hands (feat. Roscoe Dash & Wale),Waka Flocka Flame,74
+2010,rap,Best I Ever Had,Drake,72
+2010,rap,Memories (feat. Kid Cudi),David Guetta,66
+2010,rap,Hard in Da Paint,Waka Flocka Flame,65
+2010,rap,My Chick Bad,Ludacris,65
+2010,rap,Grove St. Party (feat. Kebo Gotti),Waka Flocka Flame,63
+2010,rap,Over,Drake,63
+2010,rap,"All I Do Is Win - Feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross",DJ Khaled,62
+2010,rap,How Low,Ludacris,61
+2010,rock,What You Know,Two Door Cinema Club,71
+2010,rock,The Suburbs,Arcade Fire,69
+2010,rock,Animal,Neon Trees,68
+2010,rock,Down with the Sickness,Disturbed,68
+2010,rock,Pensando en Ti,Canserbero,66
+2010,rock,Cryin' Like A Bitch!!,Godsmack,66
+2010,rock,Love Will Tear Us Apart - 2010 Remaster,Joy Division,64
+2010,rock,Carry on Wayward Son,Kansas,63
+2010,rock,Carry on Wayward Son,Kansas,63
+2010,rock,A Warrior's Call,Volbeat,63
+2011,edm,Give Me Everything,Pitbull,79
+2011,edm,Somebody That I Used To Know,Gotye,77
+2011,edm,We Found Love,Rihanna,75
+2011,edm,Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio,Eiffel 65,73
+2011,edm,Stronger (What Doesn't Kill You),Kelly Clarkson,73
+2011,edm,I Follow Rivers - The Magician Remix,Lykke Li,72
+2011,edm,We Found Love,Rihanna,71
+2011,edm,Save The World,Swedish House Mafia,67
+2011,edm,Save The World,Swedish House Mafia,67
+2011,edm,Titanium (feat. Sia),David Guetta,66
+2011,latin,Someone Like You,Adele,79
+2011,latin,Give Me Everything,Pitbull,79
+2011,latin,A Thousand Years,Christina Perri,79
+2011,latin,Stereo Hearts (feat. Adam Levine),Gym Class Heroes,77
+2011,latin,We Found Love,Rihanna,75
+2011,latin,Love You Like A Love Song,Selena Gomez & The Scene,75
+2011,latin,Fuiste Tú,Ricardo Arjona,74
+2011,latin,Stronger (What Doesn't Kill You),Kelly Clarkson,73
+2011,latin,Country Girl (Shake It For Me),Luke Bryan,72
+2011,latin,International Love,Pitbull,71
+2011,pop,Mistletoe,Justin Bieber,84
+2011,pop,Pumped Up Kicks,Foster The People,83
+2011,pop,Pumped Up Kicks,Foster The People,83
+2011,pop,Pumped Up Kicks,Foster The People,83
+2011,pop,Pumped Up Kicks,Foster The People,83
+2011,pop,Someone Like You,Adele,79
+2011,pop,A Thousand Years,Christina Perri,79
+2011,pop,Give Me Everything,Pitbull,79
+2011,pop,Someone Like You,Adele,79
+2011,pop,Give Me Everything,Pitbull,79
+2011,r&b,Marvins Room,Drake,74
+2011,r&b,Novacane,Frank Ocean,71
+2011,r&b,Take Care,Drake,71
+2011,r&b,Midnight City,M83,71
+2011,r&b,Holocene,Bon Iver,70
+2011,r&b,Crew Love,Drake,69
+2011,r&b,Turning Tables,Adele,66
+2011,r&b,Swim Good,Frank Ocean,65
+2011,r&b,She (Featuring Frank Ocean),"Tyler, The Creator",64
+2011,r&b,Wildfire,SBTRKT,62
+2011,rap,Ni**as In Paris,JAY-Z,77
+2011,rap,Ni**as In Paris,JAY-Z,77
+2011,rap,The Motto,Drake,73
+2011,rap,No Church In The Wild,JAY-Z,70
+2011,rap,Donald Trump,Mac Miller,68
+2011,rap,Lotus Flower Bomb (feat. Miguel),Wale,67
+2011,rap,Ima Boss (feat. Rick Ross),Meek Mill,65
+2011,rap,Ima Boss (feat. Rick Ross),Meek Mill,65
+2011,rap,No Sleep,Wiz Khalifa,65
+2011,rap,Trouble On My Mind,Pusha T,64
+2011,rock,Pumped Up Kicks,Foster The People,83
+2011,rock,Tongue Tied,Grouplove,78
+2011,rock,Somebody That I Used To Know,Gotye,77
+2011,rock,Lonely Boy,The Black Keys,72
+2011,rock,Still Loving You,Scorpions,72
+2011,rock,Cough Syrup,Young the Giant,70
+2011,rock,The Look,Metronomy,69
+2011,rock,Under Cover of Darkness,The Strokes,69
+2011,rock,Gold on the Ceiling,The Black Keys,69
+2011,rock,Gold on the Ceiling,The Black Keys,69
+2012,edm,Can't Hold Us - feat. Ray Dalton,Macklemore & Ryan Lewis,83
+2012,edm,When I Was Your Man,Bruno Mars,82
+2012,edm,Just Give Me a Reason (feat. Nate Ruess),P!nk,80
+2012,edm,Payphone,Maroon 5,78
+2012,edm,Radioactive,Imagine Dragons,78
+2012,edm,Don't You Worry Child - Radio Edit,Swedish House Mafia,77
+2012,edm,Don't You Worry Child - Radio Edit,Swedish House Mafia,77
+2012,edm,Don't You Worry Child - Radio Edit,Swedish House Mafia,77
+2012,edm,Don't You Worry Child - Radio Edit,Swedish House Mafia,77
+2012,edm,Whistle,Flo Rida,76
+2012,latin,When I Was Your Man,Bruno Mars,82
+2012,latin,Locked Out of Heaven,Bruno Mars,78
+2012,latin,Treasure,Bruno Mars,76
+2012,latin,Feel So Close - Radio Edit,Calvin Harris,75
+2012,latin,Good Feeling,Flo Rida,73
+2012,latin,Radioactive,Imagine Dragons,73
+2012,latin,Firework,Katy Perry,73
+2012,latin,We Are Young (feat. Janelle Monáe),fun.,73
+2012,latin,Good Time,Owl City,72
+2012,latin,Payphone,Maroon 5,72
+2012,pop,Can't Hold Us - feat. Ray Dalton,Macklemore & Ryan Lewis,83
+2012,pop,Can't Hold Us - feat. Ray Dalton,Macklemore & Ryan Lewis,83
+2012,pop,Just Give Me a Reason (feat. Nate Ruess),P!nk,80
+2012,pop,Just Give Me a Reason (feat. Nate Ruess),P!nk,80
+2012,pop,Titanium (feat. Sia),David Guetta,79
+2012,pop,Titanium (feat. Sia),David Guetta,79
+2012,pop,Payphone,Maroon 5,78
+2012,pop,Payphone,Maroon 5,78
+2012,pop,Hall of Fame,The Script,78
+2012,pop,What Makes You Beautiful,One Direction,78
+2012,r&b,Feels Like We Only Go Backwards,Tame Impala,75
+2012,r&b,Thinkin Bout You,Frank Ocean,75
+2012,r&b,Thinkin Bout You,Frank Ocean,75
+2012,r&b,You Said You'd Grow Old With Me,Michael Schulte,71
+2012,r&b,The Morning,The Weeknd,70
+2012,r&b,The Morning,The Weeknd,70
+2012,r&b,Beneath Your Beautiful,Labrinth,69
+2012,r&b,"Read All About It, Pt. III",Emeli Sandé,68
+2012,r&b,Lost,Frank Ocean,68
+2012,r&b,Lost,Frank Ocean,67
+2012,rap,Wild Ones (feat. Sia),Flo Rida,76
+2012,rap,Starships,Nicki Minaj,73
+2012,rap,Poetic Justice,Kendrick Lamar,68
+2012,rap,Jeremías 17-5,Canserbero,68
+2012,rap,Backseat Freestyle,Kendrick Lamar,67
+2012,rap,m.A.A.d city,Kendrick Lamar,67
+2012,rap,Play Hard (feat. Ne-Yo & Akon),David Guetta,66
+2012,rap,Ayy Ladies,Travis Porter,66
+2012,rap,m.A.A.d city,Kendrick Lamar,65
+2012,rap,Clique,Kanye West,64
+2012,rock,Feels Like We Only Go Backwards,Tame Impala,75
+2012,rock,We Are Young (feat. Janelle Monáe),fun.,75
+2012,rock,Breezeblocks,alt-J,73
+2012,rock,Madness,Muse,70
+2012,rock,Courtesy Call,Thousand Foot Krutch,68
+2012,rock,Absolute Zero,Stone Sour,68
+2012,rock,She,Elvis Costello,64
+2012,rock,War of Change,Thousand Foot Krutch,63
+2012,rock,Como Tú (Magic Music Box),León Larregui,63
+2012,rock,Souvenir,León Larregui,62
+2013,edm,All of Me,John Legend,85
+2013,edm,Counting Stars,OneRepublic,80
+2013,edm,Dark Horse,Katy Perry,77
+2013,edm,Roar,Katy Perry,77
+2013,edm,Mirrors,Justin Timberlake,77
+2013,edm,Safe And Sound,Capital Cities,77
+2013,edm,Wrecking Ball,Miley Cyrus,76
+2013,edm,Black Skinhead,Kanye West,75
+2013,edm,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Lana Del Rey,73
+2013,edm,Turn Down for What,DJ Snake,72
+2013,latin,All of Me,John Legend,85
+2013,latin,Wake Me Up,Avicii,84
+2013,latin,Vivir Mi Vida,Marc Anthony,75
+2013,latin,Vivir Mi Vida,Marc Anthony,75
+2013,latin,The Monster,Eminem,74
+2013,latin,Turn Down for What,DJ Snake,72
+2013,latin,Pompeii,Bastille,71
+2013,latin,Darte un Beso,Prince Royce,70
+2013,latin,6 AM,J Balvin,70
+2013,latin,6 AM,J Balvin,70
+2013,pop,All of Me,John Legend,85
+2013,pop,All of Me,John Legend,85
+2013,pop,Wake Me Up,Avicii,84
+2013,pop,Wake Me Up,Avicii,84
+2013,pop,Wake Me Up,Avicii,84
+2013,pop,Sweater Weather,The Neighbourhood,81
+2013,pop,Story of My Life,One Direction,80
+2013,pop,Story of My Life,One Direction,80
+2013,pop,Counting Stars,OneRepublic,80
+2013,pop,Counting Stars,OneRepublic,80
+2013,r&b,All of Me,John Legend,85
+2013,r&b,Royals,Lorde,78
+2013,r&b,Blurred Lines,Robin Thicke,76
+2013,r&b,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Lana Del Rey,73
+2013,r&b,So Good At Being in Trouble,Unknown Mortal Orchestra,68
+2013,r&b,Chum,Earl Sweatshirt,67
+2013,r&b,Retrograde,James Blake,67
+2013,r&b,Retrograde,James Blake,67
+2013,r&b,It Won't Stop (feat. Chris Brown),Sevyn Streeter,66
+2013,r&b,You're Not Good Enough,Blood Orange,63
+2013,rap,Black Skinhead,Kanye West,75
+2013,rap,"Work REMIX (feat. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q)",A$AP Ferg,71
+2013,rap,DJ Turn It Up,Yellow Claw,69
+2013,rap,23,Mike WiLL Made-It,68
+2013,rap,Bandz A Make Her Dance (feat. Lil' Wayne & 2 Chainz),Juicy J,65
+2013,rap,Switch Lanes,Tyga,64
+2013,rap,Harlem Shake,Baauer,62
+2013,rap,I Luv This Shit,August Alsina,61
+2013,rap,We Own It (Fast & Furious),2 Chainz,59
+2013,rap,Band Plays On,Lil Wyte,59
+2013,rock,Do I Wanna Know?,Arctic Monkeys,82
+2013,rock,Why'd You Only Call Me When You're High?,Arctic Monkeys,76
+2013,rock,Hail to the King,Avenged Sevenfold,75
+2013,rock,Cigarette Daydreams,Cage The Elephant,72
+2013,rock,My Number,Foals,70
+2013,rock,Shepherd of Fire,Avenged Sevenfold,68
+2013,rock,Arrullo De Estrellas,Zoé,68
+2013,rock,Wrong Side of Heaven,Five Finger Death Punch,67
+2013,rock,I Sat By The Ocean,Queens of the Stone Age,66
+2013,rock,"Call It Fate, Call It Karma",The Strokes,63
+2014,edm,Dancin (feat. Luvli) - Krono Remix,Aaron Smith,84
+2014,edm,Photograph,Ed Sheeran,84
+2014,edm,Dancin (feat. Luvli) - Krono Remix,Aaron Smith,84
+2014,edm,Thinking out Loud,Ed Sheeran,83
+2014,edm,Summer,Calvin Harris,79
+2014,edm,Little Do You Know,Alex & Sierra,79
+2014,edm,Summer,Calvin Harris,79
+2014,edm,Chandelier,Sia,79
+2014,edm,Blank Space,Taylor Swift,78
+2014,edm,Rude,MAGIC!,78
+2014,latin,Photograph,Ed Sheeran,84
+2014,latin,Thinking out Loud,Ed Sheeran,83
+2014,latin,Rude,MAGIC!,78
+2014,latin,Waves - Robin Schulz Radio Edit,Mr. Probz,76
+2014,latin,Best Day Of My Life,American Authors,76
+2014,latin,Propuesta Indecente,Romeo Santos,76
+2014,latin,Propuesta Indecente,Romeo Santos,76
+2014,latin,Problem,Ariana Grande,74
+2014,latin,Counting Stars,OneRepublic,74
+2014,latin,XO,John Mayer,72
+2014,pop,Photograph,Ed Sheeran,84
+2014,pop,Dancin (feat. Luvli) - Krono Remix,Aaron Smith,84
+2014,pop,Dancin (feat. Luvli) - Krono Remix,Aaron Smith,84
+2014,pop,Shut Up and Dance,WALK THE MOON,82
+2014,pop,Shut Up and Dance,WALK THE MOON,82
+2014,pop,No Role Modelz,J. Cole,82
+2014,pop,The Nights,Avicii,80
+2014,pop,The Nights,Avicii,80
+2014,pop,Take Me To Church,Hozier,80
+2014,pop,Summer,Calvin Harris,79
+2014,r&b,Jealous,Labrinth,79
+2014,r&b,Wet Dreamz,J. Cole,78
+2014,r&b,Say Something,A Great Big World,78
+2014,r&b,Wet Dreamz,J. Cole,78
+2014,r&b,Not About Angels,Birdy,75
+2014,r&b,I Mean It (feat. Remo),G-Eazy,74
+2014,r&b,7/11,Beyoncé,71
+2014,r&b,Partition,Beyoncé,71
+2014,r&b,7/11,Beyoncé,71
+2014,r&b,Post to Be (feat. Chris Brown & Jhene Aiko),Omarion,70
+2014,rap,No Role Modelz,J. Cole,82
+2014,rap,Hot N*gga,Bobby Shmurda,74
+2014,rap,I Mean It (feat. Remo),G-Eazy,74
+2014,rap,I Mean It (feat. Remo),G-Eazy,74
+2014,rap,Collard Greens,ScHoolboy Q,72
+2014,rap,You & Me - Flume Remix,Disclosure,72
+2014,rap,7/11,Beyoncé,71
+2014,rap,Trophies,Young Money,71
+2014,rap,Post to Be (feat. Chris Brown & Jhene Aiko),Omarion,70
+2014,rap,Si Te Vienen a Contar,Cartel De Santa,70
+2014,rock,Dancin (feat. Luvli) - Krono Remix,Aaron Smith,84
+2014,rock,A Sky Full of Stars,Coldplay,78
+2014,rock,Chamber Of Reflection,Mac DeMarco,73
+2014,rock,Magic,Coldplay,72
+2014,rock,The Devil in I,Slipknot,71
+2014,rock,I Love You So,The Walters,70
+2014,rock,My Demons,STARSET,70
+2014,rock,Kathleen,Catfish and the Bottlemen,66
+2014,rock,Cold Cold Man,Saint Motel,65
+2014,rock,Always in My Head,Coldplay,65
+2015,edm,Stressed Out,Twenty One Pilots,83
+2015,edm,Love Yourself,Justin Bieber,83
+2015,edm,Sorry,Justin Bieber,81
+2015,edm,Ride,Twenty One Pilots,81
+2015,edm,See You Again (feat. Charlie Puth),Wiz Khalifa,80
+2015,edm,What Do You Mean?,Justin Bieber,78
+2015,edm,Secret Love Song (feat. Jason Derulo),Little Mix,77
+2015,edm,My House,Flo Rida,76
+2015,edm,Please Don't Go,Joel Adams,76
+2015,edm,Maps,Maroon 5,76
+2015,latin,Sugar,Maroon 5,80
+2015,latin,Can't Feel My Face,The Weeknd,80
+2015,latin,Centuries,Fall Out Boy,79
+2015,latin,Unsteady,X Ambassadors,77
+2015,latin,Faded,Alan Walker,77
+2015,latin,Tennessee Whiskey,Chris Stapleton,77
+2015,latin,Jumpman,Drake,75
+2015,latin,Animals,Maroon 5,75
+2015,latin,Confident,Demi Lovato,74
+2015,latin,Bajo El Agua,Manuel Medrano,73
+2015,pop,Stressed Out,Twenty One Pilots,83
+2015,pop,The Hills,The Weeknd,83
+2015,pop,Stressed Out,Twenty One Pilots,83
+2015,pop,Stressed Out,Twenty One Pilots,83
+2015,pop,Uptown Funk,Mark Ronson,82
+2015,pop,Uptown Funk,Mark Ronson,82
+2015,pop,Ride,Twenty One Pilots,81
+2015,pop,Ride,Twenty One Pilots,81
+2015,pop,Sorry,Justin Bieber,81
+2015,pop,Ride,Twenty One Pilots,81
+2015,r&b,Love Yourself,Justin Bieber,83
+2015,r&b,The Hills,The Weeknd,83
+2015,r&b,Don't,Bryson Tiller,80
+2015,r&b,Exchange,Bryson Tiller,79
+2015,r&b,Wait a Minute!,WILLOW,78
+2015,r&b,Sunset Lover,Petit Biscuit,77
+2015,r&b,Weekend (feat. Miguel),Mac Miller,77
+2015,r&b,Tennessee Whiskey,Chris Stapleton,77
+2015,r&b,Lay Me Down,Sam Smith,76
+2015,r&b,Lost Boy,Ruth B.,76
+2015,rap,Don't,Bryson Tiller,80
+2015,rap,Exchange,Bryson Tiller,79
+2015,rap,Antidote,Travis Scott,77
+2015,rap,Kill Yourself (Part III),$uicideBoy$,77
+2015,rap,Kill Yourself (Part III),$uicideBoy$,77
+2015,rap,Weekend (feat. Miguel),Mac Miller,77
+2015,rap,Come Get Her,Rae Sremmurd,76
+2015,rap,Bitch Better Have My Money,Rihanna,75
+2015,rap,679 (feat. Remy Boyz),Fetty Wap,75
+2015,rap,Paris,$uicideBoy$,75
+2015,rock,The Less I Know The Better,Tame Impala,85
+2015,rock,The Less I Know The Better,Tame Impala,85
+2015,rock,Stressed Out,Twenty One Pilots,83
+2015,rock,Heavydirtysoul,Twenty One Pilots,71
+2015,rock,Molly (feat. Brendon Urie of Panic at the Disco),Lil Dicky,70
+2015,rock,Psycho,Muse,69
+2015,rock,Yes I'm Changing,Tame Impala,69
+2015,rock,Psycho,Muse,69
+2015,rock,Throne,Bring Me The Horizon,68
+2015,rock,I Am Machine,Three Days Grace,67
+2016,edm,Closer (feat. Halsey),The Chainsmokers,85
+2016,edm,Say You Won't Let Go,James Arthur,85
+2016,edm,One Dance,Drake,83
+2016,edm,That's What I Like,Bruno Mars,82
+2016,edm,"i hate u, i love u (feat. olivia o'brien)",gnash,81
+2016,edm,Let Me Love You,DJ Snake,81
+2016,edm,Don't Let Me Down,The Chainsmokers,81
+2016,edm,Heathens,Twenty One Pilots,81
+2016,edm,In the Name of Love,Martin Garrix,80
+2016,edm,In the Name of Love,Martin Garrix,80
+2016,latin,Closer (feat. Halsey),The Chainsmokers,85
+2016,latin,Closer (feat. Halsey),The Chainsmokers,85
+2016,latin,Closer (feat. Halsey),The Chainsmokers,85
+2016,latin,Starboy,The Weeknd,84
+2016,latin,Don't Let Me Down,The Chainsmokers,81
+2016,latin,Let Me Love You,DJ Snake,81
+2016,latin,Cake By The Ocean,DNCE,80
+2016,latin,7 Years,Lukas Graham,79
+2016,latin,We Don't Talk Anymore,Charlie Puth,79
+2016,latin,I Took A Pill In Ibiza - Seeb Remix,Mike Posner,78
+2016,pop,goosebumps,Travis Scott,86
+2016,pop,Closer (feat. Halsey),The Chainsmokers,85
+2016,pop,Closer (feat. Halsey),The Chainsmokers,85
+2016,pop,Closer (feat. Halsey),The Chainsmokers,85
+2016,pop,Say You Won't Let Go,James Arthur,85
+2016,pop,Say You Won't Let Go,James Arthur,85
+2016,pop,Closer (feat. Halsey),The Chainsmokers,85
+2016,pop,Congratulations,Post Malone,84
+2016,pop,Starboy,The Weeknd,84
+2016,pop,Starboy,The Weeknd,84
+2016,r&b,Say You Won't Let Go,James Arthur,85
+2016,r&b,Closer (feat. Halsey),The Chainsmokers,85
+2016,r&b,Congratulations,Post Malone,84
+2016,r&b,Starboy,The Weeknd,84
+2016,r&b,Good as Hell,Lizzo,83
+2016,r&b,One Dance,Drake,83
+2016,r&b,Good as Hell,Lizzo,83
+2016,r&b,That's What I Like,Bruno Mars,82
+2016,r&b,Redbone,Childish Gambino,81
+2016,r&b,Nights,Frank Ocean,78
+2016,rap,goosebumps,Travis Scott,86
+2016,rap,goosebumps,Travis Scott,86
+2016,rap,Closer (feat. Halsey),The Chainsmokers,85
+2016,rap,Don't Let Me Down,The Chainsmokers,81
+2016,rap,This Is What You Came For,Calvin Harris,79
+2016,rap,Work from Home (feat. Ty Dolla $ign),Fifth Harmony,78
+2016,rap,"Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",Lil Wayne,77
+2016,rap,Chill Bill (feat. J. Davi$ & Spooks),Rob $tone,77
+2016,rap,Chill Bill (feat. J. Davi$ & Spooks),Rob $tone,77
+2016,rap,Broken,Lund,77
+2016,rock,We Don't Talk Anymore,Charlie Puth,79
+2016,rock,Dark Necessities,Red Hot Chili Peppers,74
+2016,rock,Feel Invincible,Skillet,72
+2016,rock,Locos,León Larregui,71
+2016,rock,Waste A Moment,Kings of Leon,67
+2016,rock,Scars,I Prevail,67
+2016,rock,Silvertongue,Young the Giant,66
+2016,rock,WALLS,Kings of Leon,64
+2016,rock,Kids,Current Joys,64
+2016,rock,Hot Blood,KALEO,63
+2017,edm,Shape of You,Ed Sheeran,86
+2017,edm,I Like Me Better,Lauv,83
+2017,edm,Treat You Better,Shawn Mendes,83
+2017,edm,Wolves,Selena Gomez,82
+2017,edm,There's Nothing Holdin' Me Back,Shawn Mendes,82
+2017,edm,Scared to Be Lonely,Martin Garrix,81
+2017,edm,Symphony (feat. Zara Larsson),Clean Bandit,78
+2017,edm,Symphony (feat. Zara Larsson),Clean Bandit,78
+2017,edm,What About Us,P!nk,76
+2017,edm,Friends (with BloodPop®),Justin Bieber,76
+2017,latin,Believer,Imagine Dragons,88
+2017,latin,Perfect,Ed Sheeran,86
+2017,latin,Thunder,Imagine Dragons,85
+2017,latin,Let You Down,NF,83
+2017,latin,Meant to Be (feat. Florida Georgia Line),Bebe Rexha,81
+2017,latin,Ric Flair Drip (& Metro Boomin),Offset,81
+2017,latin,Nevermind,Dennis Lloyd,79
+2017,latin,Body,Loud Luxury,79
+2017,latin,Stay,Zedd,79
+2017,latin,Tu Sicaria,Ms Nina,78
+2017,pop,Shape of You,Ed Sheeran,86
+2017,pop,Shape of You,Ed Sheeran,86
+2017,pop,Shape of You,Ed Sheeran,86
+2017,pop,Thunder,Imagine Dragons,85
+2017,pop,Thunder,Imagine Dragons,85
+2017,pop,HUMBLE.,Kendrick Lamar,84
+2017,pop,XO Tour Llif3,Lil Uzi Vert,84
+2017,pop,New Rules,Dua Lipa,83
+2017,pop,Something Just Like This,The Chainsmokers,83
+2017,pop,Young Dumb & Broke,Khalid,83
+2017,r&b,Jocelyn Flores,XXXTENTACION,86
+2017,r&b,Shape of You,Ed Sheeran,86
+2017,r&b,idontwannabeyouanymore,Billie Eilish,85
+2017,r&b,ocean eyes,Billie Eilish,85
+2017,r&b,HUMBLE.,Kendrick Lamar,84
+2017,r&b,HUMBLE.,Kendrick Lamar,84
+2017,r&b,Young Dumb & Broke,Khalid,83
+2017,r&b,New Rules,Dua Lipa,83
+2017,r&b,I Like Me Better,Lauv,83
+2017,r&b,Chanel,Frank Ocean,82
+2017,rap,Jocelyn Flores,XXXTENTACION,86
+2017,rap,HUMBLE.,Kendrick Lamar,84
+2017,rap,HUMBLE.,Kendrick Lamar,84
+2017,rap,Fuck Love (feat. Trippie Redd),XXXTENTACION,84
+2017,rap,Ric Flair Drip (& Metro Boomin),Offset,81
+2017,rap,Ric Flair Drip (& Metro Boomin),Offset,81
+2017,rap,1-800-273-8255,Logic,81
+2017,rap,Ric Flair Drip (& Metro Boomin),Offset,81
+2017,rap,Bank Account,21 Savage,80
+2017,rap,LOVE. FEAT. ZACARI.,Kendrick Lamar,80
+2017,rock,Sign of the Times,Harry Styles,80
+2017,rock,Loving Is Easy,Rex Orange County,80
+2017,rock,Sunflower,Rex Orange County,79
+2017,rock,Falling for U,Peachy!,78
+2017,rock,Lo Que Siento,Cuco,76
+2017,rock,Everytime,boy pablo,70
+2017,rock,Television / So Far So Good,Rex Orange County,69
+2017,rock,Carolina,Harry Styles,68
+2017,rock,Talk Too Much,COIN,68
+2017,rock,You Say I'm in Love,Banes World,68
+2018,edm,Falling,Trevor Daniel,97
+2018,edm,Lucid Dreams,Juice WRLD,92
+2018,edm,God's Plan,Drake,86
+2018,edm,Calma - Remix,Pedro Capó,86
+2018,edm,One Kiss (with Dua Lipa),Calvin Harris,85
+2018,edm,The Middle,Zedd,84
+2018,edm,In My Mind,Dynoro,84
+2018,edm,Baila Conmigo (feat. Kelly Ruiz),Dayvi,83
+2018,edm,2002,Anne-Marie,83
+2018,edm,Baila Conmigo (feat. Kelly Ruiz),Dayvi,83
+2018,latin,Falling,Trevor Daniel,97
+2018,latin,Falling,Trevor Daniel,97
+2018,latin,Happier,Marshmello,89
+2018,latin,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,88
+2018,latin,Without Me,Halsey,88
+2018,latin,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,88
+2018,latin,SICKO MODE,Travis Scott,87
+2018,latin,SICKO MODE,Travis Scott,87
+2018,latin,Sweet but Psycho,Ava Max,87
+2018,latin,SAD!,XXXTENTACION,87
+2018,pop,Falling,Trevor Daniel,97
+2018,pop,Happier,Marshmello,89
+2018,pop,Happier,Marshmello,89
+2018,pop,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,88
+2018,pop,Without Me,Halsey,88
+2018,pop,Without Me,Halsey,88
+2018,pop,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,88
+2018,pop,Better Now,Post Malone,87
+2018,pop,Better Now,Post Malone,87
+2018,pop,Sweet but Psycho,Ava Max,87
+2018,r&b,Falling,Trevor Daniel,97
+2018,r&b,Lucid Dreams,Juice WRLD,92
+2018,r&b,lovely (with Khalid),Billie Eilish,89
+2018,r&b,Happier,Marshmello,89
+2018,r&b,Without Me,Halsey,88
+2018,r&b,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,88
+2018,r&b,Without Me,Halsey,88
+2018,r&b,Shallow,Lady Gaga,88
+2018,r&b,Shallow,Lady Gaga,88
+2018,r&b,rockstar (feat. 21 Savage),Post Malone,88
+2018,rap,Falling,Trevor Daniel,97
+2018,rap,rockstar (feat. 21 Savage),Post Malone,88
+2018,rap,SICKO MODE,Travis Scott,87
+2018,rap,SAD!,XXXTENTACION,87
+2018,rap,SICKO MODE,Travis Scott,87
+2018,rap,Going Bad (feat. Drake),Meek Mill,85
+2018,rap,Going Bad (feat. Drake),Meek Mill,85
+2018,rap,Murder On My Mind,YNW Melly,85
+2018,rap,Swervin (feat. 6ix9ine),A Boogie Wit da Hoodie,85
+2018,rap,Going Bad (feat. Drake),Meek Mill,85
+2018,rock,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,88
+2018,rock,New Light,John Mayer,80
+2018,rock,Venom - Music From The Motion Picture,Eminem,76
+2018,rock,It's Not Living (If It's Not With You),The 1975,74
+2018,rock,Wake Up in the Sky,Gucci Mane,73
+2018,rock,Zombie,Bad Wolves,72
+2018,rock,La Mujer Perfecta,KURT,72
+2018,rock,Can I Call You Tonight?,Dayglow,72
+2018,rock,Somebody To Love - 2011 Mix,Queen,69
+2018,rock,Hunnybee,Unknown Mortal Orchestra,69
+2019,edm,ROXANNE,Arizona Zervas,99
+2019,edm,Blinding Lights,The Weeknd,98
+2019,edm,Tusa,KAROL G,98
+2019,edm,Memories,Maroon 5,98
+2019,edm,The Box,Roddy Ricch,98
+2019,edm,Circles,Post Malone,98
+2019,edm,everything i wanted,Billie Eilish,97
+2019,edm,Don't Start Now,Dua Lipa,97
+2019,edm,RITMO (Bad Boys For Life),The Black Eyed Peas,96
+2019,edm,bad guy,Billie Eilish,95
+2019,latin,Dance Monkey,Tones and I,100
+2019,latin,ROXANNE,Arizona Zervas,99
+2019,latin,The Box,Roddy Ricch,98
+2019,latin,Memories,Maroon 5,98
+2019,latin,Blinding Lights,The Weeknd,98
+2019,latin,Circles,Post Malone,98
+2019,latin,The Box,Roddy Ricch,98
+2019,latin,Memories,Maroon 5,98
+2019,latin,Tusa,KAROL G,98
+2019,latin,Tusa,KAROL G,98
+2019,pop,Dance Monkey,Tones and I,100
+2019,pop,Blinding Lights,The Weeknd,98
+2019,pop,Blinding Lights,The Weeknd,98
+2019,pop,Memories,Maroon 5,98
+2019,pop,Circles,Post Malone,98
+2019,pop,Blinding Lights,The Weeknd,98
+2019,pop,Memories,Maroon 5,98
+2019,pop,Tusa,KAROL G,98
+2019,pop,everything i wanted,Billie Eilish,97
+2019,pop,Don't Start Now,Dua Lipa,97
+2019,r&b,ROXANNE,Arizona Zervas,99
+2019,r&b,ROXANNE,Arizona Zervas,99
+2019,r&b,Memories,Maroon 5,98
+2019,r&b,Tusa,KAROL G,98
+2019,r&b,Circles,Post Malone,98
+2019,r&b,Memories,Maroon 5,98
+2019,r&b,Blinding Lights,The Weeknd,98
+2019,r&b,The Box,Roddy Ricch,98
+2019,r&b,The Box,Roddy Ricch,98
+2019,r&b,Blinding Lights,The Weeknd,98
+2019,rap,The Box,Roddy Ricch,98
+2019,rap,The Box,Roddy Ricch,98
+2019,rap,Tusa,KAROL G,98
+2019,rap,The Box,Roddy Ricch,98
+2019,rap,HIGHEST IN THE ROOM,Travis Scott,94
+2019,rap,HIGHEST IN THE ROOM,Travis Scott,94
+2019,rap,HIGHEST IN THE ROOM,Travis Scott,94
+2019,rap,BOP,DaBaby,93
+2019,rap,Vete,Bad Bunny,93
+2019,rap,BOP,DaBaby,93
+2019,rock,bad guy,Billie Eilish,95
+2019,rock,Unsainted,Slipknot,77
+2019,rock,Popular Monster,Falling In Reverse,75
+2019,rock,Ludens,Bring Me The Horizon,73
+2019,rock,Bubble Gum,Clairo,72
+2019,rock,Nero Forte,Slipknot,72
+2019,rock,Under the Graveyard,Ozzy Osbourne,71
+2019,rock,Under the Graveyard,Ozzy Osbourne,71
+2019,rock,original me (feat. dan reynolds of imagine dragons),YUNGBLUD,71
+2019,rock,Glory,The Score,71
+2020,edm,Yummy,Justin Bieber,95
+2020,edm,Life Is Good (feat. Drake),Future,93
+2020,edm,Rare,Selena Gomez,88
+2020,edm,Good News,Mac Miller,87
+2020,edm,You should be sad,Halsey,86
+2020,edm,Lose You To Love Me,Selena Gomez,85
+2020,edm,Eleven,Khalid,83
+2020,edm,Dance Again,Selena Gomez,79
+2020,edm,Me Gusta,Shakira,79
+2020,edm,In Your Eyes (feat. Alida),Robin Schulz,74
+2020,latin,Yummy,Justin Bieber,95
+2020,latin,Yummy,Justin Bieber,95
+2020,latin,Life Is Good (feat. Drake),Future,93
+2020,latin,Life Is Good (feat. Drake),Future,93
+2020,latin,Rare,Selena Gomez,88
+2020,latin,Rare,Selena Gomez,88
+2020,latin,Good News,Mac Miller,87
+2020,latin,Good News,Mac Miller,87
+2020,latin,You should be sad,Halsey,86
+2020,latin,You should be sad,Halsey,86
+2020,pop,Yummy,Justin Bieber,95
+2020,pop,Yummy,Justin Bieber,95
+2020,pop,Rare,Selena Gomez,88
+2020,pop,Rare,Selena Gomez,88
+2020,pop,Rare,Selena Gomez,88
+2020,pop,You should be sad,Halsey,86
+2020,pop,You should be sad,Halsey,86
+2020,pop,Lose You To Love Me,Selena Gomez,85
+2020,pop,Morado,J Balvin,82
+2020,pop,Wrong Direction,Hailee Steinfeld,79
+2020,r&b,Yummy,Justin Bieber,95
+2020,r&b,Yummy,Justin Bieber,95
+2020,r&b,Life Is Good (feat. Drake),Future,93
+2020,r&b,Life Is Good (feat. Drake),Future,93
+2020,r&b,Rare,Selena Gomez,88
+2020,r&b,Good News,Mac Miller,87
+2020,r&b,You should be sad,Halsey,86
+2020,r&b,Lose You To Love Me,Selena Gomez,85
+2020,r&b,Eleven,Khalid,83
+2020,r&b,Eleven,Khalid,83
+2020,rap,Life Is Good (feat. Drake),Future,93
+2020,rap,Life Is Good (feat. Drake),Future,93
+2020,rap,Good News,Mac Miller,87
+2020,rap,Sum 2 Prove,Lil Baby,81
+2020,rap,Sum 2 Prove,Lil Baby,81
+2020,rap,Godzilla (feat. Juice WRLD),Eminem,79
+2020,rap,20/20,Lil Tjay,79
+2020,rap,La Playa - Remix,Myke Towers,79
+2020,rap,Diamonds (with Normani),Megan Thee Stallion,77
+2020,rap,Ich hol dich ab,Jamule,76
+2020,rock,Woods,Mac Miller,72
+2020,rock,Ordinary Man (feat. Elton John),Ozzy Osbourne,71
+2020,rock,Ordinary Man (feat. Elton John),Ozzy Osbourne,71
+2020,rock,Full Circle,Five Finger Death Punch,68
+2020,rock,Break My Baby,KALEO,63
+2020,rock,Soak Me in Bleach,The Amity Affliction,61
+2020,rock,Empire,Hollywood Undead,60
+2020,rock,Infinite,Silverstein,59
+2020,rock,Wasting Time,The Mowgli's,57
+2020,rock,So Predictable,Set It Off,57
